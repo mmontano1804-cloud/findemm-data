@@ -1,0 +1,1978 @@
+{
+  "classrooms": [
+    {
+      "classroom": "212",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "MUNOZ PEREZ SANDRA LUZ",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "wednesday": "MARISOL BUENO CARRILLO",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MUNOZ PEREZ SANDRA LUZ",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "MARISOL BUENO CARRILLO",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "friday": ""
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "MARISOL BUENO CARRILLO",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "MUNOZ PEREZ SANDRA LUZ",
+          "thursday": "MARISOL BUENO CARRILLO",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MARISOL BUENO CARRILLO",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "MUNOZ PEREZ SANDRA LUZ",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "MARISOL BUENO CARRILLO",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "213",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "MARISOL BUENO CARRILLO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "MARISOL BUENO CARRILLO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MARISOL BUENO CARRILLO",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "wednesday": "",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "MARISOL BUENO CARRILLO"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "MUNOZ PEREZ SANDRA LUZ",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "thursday": "MUNOZ PEREZ SANDRA LUZ",
+          "friday": "NUNEZ OSUNA ANA GABRIELA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "MUNOZ PEREZ SANDRA LUZ",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "MUNOZ PEREZ SANDRA LUZ",
+          "friday": "NUNEZ OSUNA ANA GABRIELA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MUNOZ PEREZ SANDRA LUZ",
+          "tuesday": "",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MUNOZ PEREZ SANDRA LUZ",
+          "tuesday": "",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIELA",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "",
+          "thursday": "MARISOL BUENO CARRILLO",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "MARISOL BUENO CARRILLO",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "221",
+      "career": "Mantenimiento ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "PEREZ REYES H",
+          "tuesday": "PEREZ REYES H",
+          "wednesday": "PEREZ REYES H",
+          "thursday": "PEREZ REYES H",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "PEREZ REYES H",
+          "tuesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "wednesday": "PEREZ REYES H",
+          "thursday": "PEREZ REYES H",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PEREZ REYES H",
+          "tuesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "CANGA PINA REYNALDO",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "CANGA PINA REYNALDO",
+          "friday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CASTRO RODRIGUEZ TOMAS",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CANGA PINA REYNALDO",
+          "tuesday": "PEREZ REYES H",
+          "wednesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "PEREZ REYES H"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CANGA PINA REYNALDO",
+          "tuesday": "PEREZ REYES H",
+          "wednesday": "",
+          "thursday": "PEREZ REYES H",
+          "friday": "CANGA PINA REYNALDO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "222",
+      "career": "Mantenimiento ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "PINA SALAZAR SONIA",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIO",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PINA SALAZAR SONIA",
+          "tuesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "",
+          "friday": "MARTINEZ LUNA MAYRA FABIO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PINA SALAZAR SONIA",
+          "tuesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "MARTINEZ LUNA MAYRA FABIO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "DE LA TORRE DESILAGUA JUA",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "DE LA TORRE DESILAGUA JUA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "312",
+      "career": "Semiconductores ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "PINA SALAZAR SONIA",
+          "friday": "ROCIO A OLIVAR RAMIREZ"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "PINA SALAZAR SONIA",
+          "friday": "ROCIO A OLIVAR RAMIREZ"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "ROCIO A OLIVAR RAMIREZ",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "PINA SALAZAR SONIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MARTINEZ LUNA MAYRA FABI",
+          "tuesday": "",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "ROCIO A OLIVAR RAMIREZ",
+          "friday": "PINA SALAZAR SONIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MARTINEZ LUNA MAYRA FABI",
+          "tuesday": "ROCIO A OLIVAR RAMIREZ",
+          "wednesday": "ROCIO A OLIVAR RAMIREZ",
+          "thursday": "ROCIO A OLIVAR RAMIREZ",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "ROCIO A OLIVAR RAMIREZ",
+          "wednesday": "ROCIO A OLIVAR RAMIREZ",
+          "thursday": "MARTINEZ LUNA MAYRA FABI",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "313",
+      "career": "Sin carrera asignada",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "BANDA COTA MONZERRATH",
+          "wednesday": "MUNOZ PEREZ SANDRA LUZ",
+          "thursday": "MARISOL BUENO CARRILLO",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "BANDA COTA MONZERRATH",
+          "wednesday": "MUNOZ PEREZ SANDRA LUZ",
+          "thursday": "MARISOL BUENO CARRILLO",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "MARISOL BUENO CARRILLO",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "MUNOZ PEREZ SANDRA LUZ",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "MARISOL BUENO CARRILLO",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "MUNOZ PEREZ SANDRA LUZ",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MARISOL BUENO CARRILLO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "MARISOL BUENO CARRILLO",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "314",
+      "career": "Contabilidad ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "JOSE LUIS DE LUNA DIAZ",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ABRIL SELENE SOLORZANO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "JOSE LUIS DE LUNA DIAZ",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ABRIL SELENE SOLORZANO"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRIC",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "JOSE LUIS DE LUNA DIAZ",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRIC"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "HERNANDEZ MORONES FERNANDA",
+          "thursday": "HERNANDEZ MORONES FERNANDA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRIC"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "JOSE LUIS DE LUNA DIAZ",
+          "friday": "HERNANDEZ MORONES FERNANDA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ABRIL SELENE SOLORZANO",
+          "thursday": "",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "ABRIL SELENE SOLORZANO",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "322",
+      "career": "Contabilidad ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "thursday": "",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "thursday": "",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "NUNEZ OSUNA ANA GABRIELA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "NUNEZ OSUNA ANA GABRIELA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "323",
+      "career": "Contabilidad ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZABETH"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZABETH"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "friday": ""
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZABETH"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZABETH"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "friday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "324",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "tuesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "wednesday": "RIVERA MARTINEZ JESUS",
+          "thursday": "RIVERA MARTINEZ JESUS",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "tuesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "wednesday": "RIVERA MARTINEZ JESUS",
+          "thursday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "BUENO CARRILLO MARISOL",
+          "wednesday": "ROMO ANDALON REYNA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "BUENO CARRILLO MARISOL",
+          "wednesday": "CANGA PINA REYNALDO",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "SOLORZANO RENTERIA ABRIL SELENE"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "RIVERA MARTINEZ JESUS",
+          "wednesday": "CANGA PINA REYNALDO",
+          "thursday": "BUENO CARRILLO MARISOL",
+          "friday": "CANGA PINA REYNALDO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "ROMO ANDALON REYNA",
+          "tuesday": "RIVERA MARTINEZ JESUS",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "BUENO CARRILLO MARISOL",
+          "friday": "CANGA PINA REYNALDO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ROMO ANDALON REYNA",
+          "tuesday": "RIVERA MARTINEZ JESUS",
+          "wednesday": "BUENO CARRILLO MARISOL",
+          "thursday": "CANGA PINA REYNALDO",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "BUENO CARRILLO MARISOL",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "412",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "VARGAS CASTELLANOS JESUS"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "VARGAS CASTELLANOS JESUS"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "thursday": "BUENO CARRILLO MARISOL",
+          "friday": "BUENO CARRILLO MARISOL"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GONZALES GONZALES EDUARDO",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "BUENO CARRILLO MARISOL",
+          "thursday": "GONZALES GONZALES EDUARDO",
+          "friday": "BUENO CARRILLO MARISOL"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "GONZALES GONZALES EDUARDO",
+          "tuesday": "",
+          "wednesday": "GONZALES GONZALES EDUARDO",
+          "thursday": "GONZALES GONZALES EDUARDO",
+          "friday": "BUENO CARRILLO MARISOL"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "BUENO CARRILLO MARISOL",
+          "tuesday": "",
+          "wednesday": "GONZALES GONZALES EDUARDO",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "VARGAS CASTELLANOS JESUS",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "413",
+      "career": "Sin carrera asignada",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "ACEVEDO MENDEZ CES",
+          "wednesday": "ACEVEDO MENDEZ CES",
+          "thursday": "NORIS LIZARRAGA MAR",
+          "friday": "SANCHEZ CISNEROS CLA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MARTINEZ LUNA MAYR",
+          "tuesday": "ACEVEDO MENDEZ CES",
+          "wednesday": "ACEVEDO MENDEZ CES",
+          "thursday": "NORIS LIZARRAGA MAR",
+          "friday": "NORIS LIZARRAGA MAR"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "NORIS LIZARRAGA MAR",
+          "tuesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "wednesday": "ACEVEDO MENDEZ CES",
+          "thursday": "MARTINEZ LUNA MAYR",
+          "friday": "ACEVEDO MENDEZ CES"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "ACEVEDO MENDEZ CES",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA",
+          "wednesday": "ACEVEDO MENDEZ CES",
+          "thursday": "MARTINEZ LUNA MAYR",
+          "friday": "ACEVEDO MENDEZ CES"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "ACEVEDO MENDEZ CES",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA",
+          "wednesday": "",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "ACEVEDO MENDEZ CES"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "NORIS LIZARRAGA MAR",
+          "wednesday": "",
+          "thursday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "friday": "SANCHEZ CISNEROS CLAUDIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "NORIS LIZARRAGA MAR",
+          "wednesday": "SANCHEZ CISNEROS CLA",
+          "thursday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "friday": "SANCHEZ CISNEROS CLAUDIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "524",
+      "career": "Sin carrera asignada",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "ACEVEDO MENDEZ",
+          "tuesday": "",
+          "wednesday": "CANGA PINA REYN",
+          "thursday": "ABRIL SELENE SOLORZA",
+          "friday": "ACEVEDO MENDEZ"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "ACEVEDO MENDEZ",
+          "tuesday": "CASTRO RODRIGU",
+          "wednesday": "CANGA PINA REYN",
+          "thursday": "ROMO ANDALON LOURDES",
+          "friday": "ACEVEDO MENDEZ"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CANGA PINA REYN",
+          "tuesday": "CASTRO RODRIGU",
+          "wednesday": "NORIS LIZARRAGA",
+          "thursday": "CASTRO RODRIGU",
+          "friday": "NORIS LIZARRAGA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CANGA PINA REYN",
+          "tuesday": "NORIS LIZARRAGA",
+          "wednesday": "NORIS LIZARRAGA",
+          "thursday": "CASTRO RODRIGU",
+          "friday": "NORIS LIZARRAGA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "ABRIL SELENE SOLORZA",
+          "tuesday": "NORIS LIZARRAGA",
+          "wednesday": "ROMO ANDALON LOURDES",
+          "thursday": "SUAREZ SANCHEZ",
+          "friday": "CASTRO RODRIGU"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "NORIS LIZARRAGA",
+          "tuesday": "CANGA PINA REYN",
+          "wednesday": "SUAREZ SANCHEZ",
+          "thursday": "BAROZA SANCHEZ",
+          "friday": "BAROZA SANCHEZ"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "NORIS LIZARRAGA",
+          "tuesday": "ABRIL SELENE SOLORZA",
+          "wednesday": "SUAREZ SANCHEZ",
+          "thursday": "BAROZA SANCHEZ",
+          "friday": "ROMO ANDALON LOURDES"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "ABRIL SELENE SOLORZA",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "611",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "EDUARDO GONZALEZ GONZALEZ",
+          "tuesday": "EDUARDO GONZALEZ GONZALEZ",
+          "wednesday": "MICHELLE GARCIA GERARDO",
+          "thursday": "MUNOZ CAZARES",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "MICHELLE GARCIA GERARDO",
+          "tuesday": "MUNOZ CAZARES",
+          "wednesday": "GONZALEZ MUNOZ ALICIA",
+          "thursday": "MUNOZ CAZARES",
+          "friday": "PEREZ REYES HER"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "MICHELLE GARCIA GERARDO",
+          "tuesday": "GONZALEZ MUNOZ ALICIA",
+          "wednesday": "GONZALEZ MUNOZ ALICIA",
+          "thursday": "EDUARDO GONZALEZ GONZALEZ",
+          "friday": "MICHELLE GARCIA GERARDO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MICHELLE GARCIA GERARDO",
+          "tuesday": "GONZALEZ MUNOZ ALICIA",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "MICHELLE GARCIA GERARDO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PEREZ REYES HER",
+          "tuesday": "MUNOZ PEREZ SANDRA LUZ",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "MICHELLE GARCIA GERARDO",
+          "friday": "EDUARDO GONZALEZ GONZALEZ"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PEREZ REYES HER",
+          "tuesday": "MUNOZ PEREZ SANDRA LUZ",
+          "wednesday": "PASILLAS SAENZ",
+          "thursday": "CASTRO RODRIGU",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MUNOZ PEREZ SANDRA LUZ",
+          "tuesday": "MUNOZ PEREZ SANDRA LUZ",
+          "wednesday": "PASILLAS SAENZ",
+          "thursday": "CASTRO RODRIGU",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "621",
+      "career": "Sin carrera asignada",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "NORIS LIZARRAGA",
+          "wednesday": "NORIS LIZARRAGA",
+          "thursday": "CANGA PINA REYN",
+          "friday": "SUAREZ SANCHEZ S"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GONZALEZ MARTINEZ MARIO",
+          "tuesday": "NORIS LIZARRAGA",
+          "wednesday": "NORIS LIZARRAGA",
+          "thursday": "CANGA PINA REYN",
+          "friday": "SUAREZ SANCHEZ S"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CASTRO RODRIGU",
+          "tuesday": "GONZALEZ MARTINEZ MARIO",
+          "wednesday": "BAROZA SANCHEZ",
+          "thursday": "NORIS LIZARRAGA",
+          "friday": "CANGA PINA REYN"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "NORIS LIZARRAGA",
+          "tuesday": "CASTRO RODRIGU",
+          "wednesday": "BAROZA SANCHEZ",
+          "thursday": "NORIS LIZARRAGA",
+          "friday": "CANGA PINA REYN"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "NORIS LIZARRAGA",
+          "tuesday": "CASTRO RODRIGU",
+          "wednesday": "CASTRO RODRIGU",
+          "thursday": "CASTRO RODRIGU",
+          "friday": "ABRIL SELENE SOLORZA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "BAROZA SANCHEZ",
+          "tuesday": "SUAREZ SANCHEZ S",
+          "wednesday": "ACEVEDO MENDEZ",
+          "thursday": "ACEVEDO MENDEZ",
+          "friday": "ABRIL SELENE SOLORZA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ABRIL SELENE SOLORZA",
+          "tuesday": "CANGA PINA REYN",
+          "wednesday": "ACEVEDO MENDEZ",
+          "thursday": "ACEVEDO MENDEZ",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "ABRIL SELENE SOLORZA",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "623",
+      "career": "Administracion De Recursos Humanos ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "JAVIER VALENZUELA RAZO",
+          "tuesday": "VALENZUELA RAZO JAVIER",
+          "wednesday": "VALENZUELA RAZO JAVIER",
+          "thursday": "VALENZUELA RAZO JAVIER",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "JAVIER VALENZUELA RAZO",
+          "tuesday": "VALENZUELA RAZO JAVIER",
+          "wednesday": "VALENZUELA RAZO JAVIER",
+          "thursday": "VALENZUELA RAZO JAVIER",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "JAVIER VALENZUELA RAZO",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "JAVIER VALENZUELA RAZO"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "JAVIER VALENZUELA RAZO",
+          "wednesday": "JAVIER VALENZUELA RAZO",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "JAVIER VALENZUELA RAZO",
+          "tuesday": "JAVIER VALENZUELA RAZO",
+          "wednesday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS",
+          "thursday": "JAVIER VALENZUELA RAZO",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "711",
+      "career": "Administracion De Recursos Humanos ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "CANGA PINA REYNALDO",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "MAYRA FABIOLA MARTINEZ LUNA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CANGA PINA REYNALDO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "MAYRA FABIOLA MARTINEZ LUNA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "friday": "BURGUENO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "tuesday": "CANGA PINA REYNALDO",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "friday": "BURGUENO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "CANGA PINA REYNALDO",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "CANGA PINA REYNALDO",
+          "friday": "BURGUENO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "BURGUENO CAMACHO FRANCISCA",
+          "tuesday": "BURGUENO CAMACHO FRANCISCA",
+          "wednesday": "BURGUENO CAMACHO FRANCISCA",
+          "thursday": "BURGUENO CAMACHO FRANCISCA",
+          "friday": "BURGUENO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "BURGUENO CAMACHO FRANCISCA",
+          "tuesday": "BURGUENO CAMACHO FRANCISCA",
+          "wednesday": "BURGUENO CAMACHO FRANCISCA",
+          "thursday": "BURGUENO CAMACHO FRANCISCA",
+          "friday": "MAYRA FABIOLA MARTINEZ LUNA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "712",
+      "career": "Electronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "tuesday": "CANGA PINA REY",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "GARCIA DELGADO JULIO",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "tuesday": "CANGA PINA REY",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "GARCIA DELGADO JULIO",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "MUNOZ PEREZ SANDRA LUZ",
+          "thursday": "GARCIA DELGADO JULIO",
+          "friday": "ABRIL SELENE SOLORZANO RENTERIA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "GONZALEZ ROSA",
+          "thursday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CANGA PINA REY",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "GONZALEZ ROSA",
+          "thursday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS",
+          "friday": "PASILLAS SAENZ"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PASILLAS SAENZ",
+          "tuesday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "wednesday": "CANGA PINA REY",
+          "thursday": "GONZALEZ ROSA",
+          "friday": "JESUS AGILEO RODOLFO VARGAS CASTELLANOS"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PASILLAS SAENZ",
+          "tuesday": "GONZALEZ ROSA",
+          "wednesday": "CANGA PINA REY",
+          "thursday": "GONZALEZ ROSA",
+          "friday": "MUNOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "721",
+      "career": "Mecatronica ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "BUENO CARRILLO MARISOL",
+          "wednesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "thursday": "VARGAS CASTELLANOS JESUS AGILEO",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "BUENO CARRILLO MARISOL",
+          "wednesday": "PASILLAS SAENZ ADRIANA",
+          "thursday": "MAYORGA ORTIZ SOFIA",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "MAYORGA ORTIZ SOFIA",
+          "wednesday": "ALVAREZ JESUS",
+          "thursday": "ALVAREZ JESUS",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "ALVAREZ JESUS",
+          "thursday": "ALVAREZ JESUS",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "VARGAS CASTELLANOS JESUS AGILEO",
+          "tuesday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "wednesday": "BUENO CARRILLO MARISOL",
+          "thursday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "SOLORZANO RENTERIA ABRIL SELENE",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "BUENO CARRILLO MARISOL",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "MAYORGA ORTIZ SOFIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ALVAREZ JESUS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "VARGAS CASTELLANOS JESUS AGILEO",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "BUENO CARRILLO MARISOL"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "BUENO CARRILLO MARISOL"
+        }
+      ]
+    },
+    {
+      "classroom": "722",
+      "career": "Laboratorista Clinico ",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "BANDA COTA MONZER",
+          "tuesday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "wednesday": "",
+          "thursday": "ACEVEDO MENDEZ CE",
+          "friday": "MARTINEZ LUNA MAY"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "",
+          "thursday": "ACEVEDO MENDEZ CE",
+          "friday": "MARTINEZ LUNA MAY"
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "tuesday": "ACEVEDO MENDEZ CE",
+          "wednesday": "",
+          "thursday": "ACEVEDO MENDEZ CE",
+          "friday": "PARADA LEYVA RUBEN"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "VARGAS CASTELLANOS JESUS AGILEO RODOLFO",
+          "tuesday": "ACEVEDO MENDEZ CE",
+          "wednesday": "",
+          "thursday": "ACEVEDO MENDEZ CE",
+          "friday": "PARADA LEYVA RUBEN"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "BANDA COTA MONZER",
+          "tuesday": "MARTINEZ LUNA MAY",
+          "wednesday": "NORIS LIZARRAGA MA",
+          "thursday": "ACEVEDO MENDEZ CE",
+          "friday": "NORIS LIZARRAGA MA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "ACEVEDO MENDEZ CE",
+          "tuesday": "ACEVEDO MENDEZ CE",
+          "wednesday": "NORIS LIZARRAGA MA",
+          "thursday": "PARADA LEYVA RUBEN",
+          "friday": "NORIS LIZARRAGA MA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ACEVEDO MENDEZ CE",
+          "tuesday": "ACEVEDO MENDEZ CE",
+          "wednesday": "NORIS LIZARRAGA MA",
+          "thursday": "PARADA LEYVA RUBEN",
+          "friday": "NORIS LIZARRAGA MA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "723",
+      "career": "Contabilidad Grupo",
+      "schedule": [
+        {
+          "time": "7:00-8:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "07:00-08:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "",
+          "wednesday": "JOSE LUIS DE LUNA DIAZ",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "",
+          "wednesday": "JOSE LUIS DE LUNA DIAZ",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "friday": ""
+        },
+        {
+          "time": "8:00-9:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GALLO MAYORGA DENISSE FERNANDA",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "",
+          "friday": "GALLO MAYORGA DENISSE FERNANDA"
+        },
+        {
+          "time": "9:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "wednesday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "thursday": "GALLO MAYORGA DENISSE FERNANDA",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "tuesday": "JOSE LUIS DE LUNA DIAZ",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "GALLO MAYORGA DENISSE FERNANDA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "ABRIL SELENE SOLORZANO RENTERIA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZABETH",
+          "thursday": "JOSE LUIS DE LUNA DIAZ",
+          "friday": "ABRIL SELENE SOLORZANO RENTERIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "ABRIL SELENE SOLORZANO RENTERIA"
+        }
+      ]
+    }
+  ]
+}
