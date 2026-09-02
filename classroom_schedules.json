@@ -1,0 +1,2134 @@
+{
+  "classrooms": [
+    {
+      "classroom": "223",
+      "group": "I A",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "TUTORIAS 1A",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "MUÑOZ CAZARES RITA",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "friday": "GONZALEZ MUÑOZ ALICIA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "KONG TOLEDO ARIADNA",
+          "thursday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "friday": "GONZALEZ MUÑOZ ALICIA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "MUÑOZ CAZARES RITA",
+          "wednesday": "TUTORIAS 1A",
+          "thursday": "GONZALEZ MUÑOZ ALICIA",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "MUÑOZ CAZARES RITA",
+          "thursday": "GONZALEZ MUÑOZ ALICIA",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "324",
+      "group": "I B",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZA BETH"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "CASTILLO ESTRADA MARTHA LORENA",
+          "friday": "CASTILLO ESTRADA MARTHA LORENA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "TUTORIAS 1B",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "CASTILLO ESTRADA MARTHA LORENA",
+          "friday": "CASTILLO ESTRADA MARTHA LORENA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "MUÑOZ CAZARES RITA",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "tuesday": "MUÑOZ CAZARES RITA",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "TUTORIAS 1B",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "MUÑOZ CAZARES RITA",
+          "wednesday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "321",
+      "group": "I C",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "",
+          "thursday": "TUTORIAS 1C",
+          "friday": "GALLO MAYORGA DENISSE FERNAND A"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "TUTORIAS 1C",
+          "thursday": "CASTRO RODRIGUEZ RICARDO",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "MUÑOZ CAZARES RITA",
+          "wednesday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "thursday": "GONZALEZ MUÑOZ ALICIA",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "CASTILLO ESTRADA MARTHA LORENA",
+          "wednesday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "MUÑOZ CAZARES RITA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "CASTILLO ESTRADA MARTHA LORENA",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "MUÑOZ CAZARES RITA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "211",
+      "group": "I D",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "TUTORIAS 1D",
+          "wednesday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "thursday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "MUÑOZ CAZARES RITA",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "TUTORIAS 1D",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "MUÑOZ CAZARES RITA",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "GONZALEZ MUÑOZ ALICIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "HERNANDEZ MORONES FERNANDA E DITH",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "GONZALEZ MUÑOZ ALICIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MUÑOZ CAZARES RITA",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "723",
+      "group": "I E",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "thursday": "TUTORIAS 1E",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "HERNANDEZ MORONES FERNANDA ED ITH",
+          "thursday": "CASTRO RODRIGUEZ TOMAS",
+          "friday": "MUÑOZ CAZARES RITA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "TUTORIAS 1E",
+          "tuesday": "HERNANDEZ MORONES FERNANDA ED ITH",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "CASTRO RODRIGUEZ TOMAS",
+          "friday": "MUÑOZ CAZARES RITA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "HERNANDEZ MORONES FERNANDA ED ITH",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "CASTRO RODRIGUEZ RICARDO",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "wednesday": "CASTRO RODRIGUEZ TOMAS",
+          "thursday": "MUÑOZ CAZARES RITA",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "314",
+      "group": "I F",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "TUTORIAS 1F",
+          "wednesday": "TUTORIAS 1F",
+          "thursday": "CASTRO RODRIGUEZ RICARDO",
+          "friday": "NORIS LIZARRAGA MARIA HILDA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "tuesday": "NUÑEZ OSUNA ANA GABRIELA",
+          "wednesday": "NUÑEZ OSUNA ANA GABRIELA",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "tuesday": "NUÑEZ OSUNA ANA GABRIELA",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "friday": "CASTRO RODRIGUEZ TOMAS"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "CASTRO RODRIGUEZ TOMAS",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "thursday": "CASTRO RODRIGUEZ TOMAS",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "312",
+      "group": "I G",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "tuesday": "TUTORIAS 1G",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "GONZALEZ MUÑOZ ALICIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "TUTORIAS 1G",
+          "tuesday": "LEPE BEAS IMELDA",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "LEPE BEAS IMELDA",
+          "wednesday": "NUÑEZ OSUNA ANA GABRIELA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "NUÑEZ OSUNA ANA GABRIELA",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "tuesday": "",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "NUÑEZ OSUNA ANA GABRIELA",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "524",
+      "group": "I H",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "wednesday": "PASILLAS SAENZ ADRIANA",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "friday": "TUTORIAS 1H"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "CASTRO RODRIGUEZ TOMAS",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "TUTORIAS 1H"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTRO RODRIGUEZ TOMAS",
+          "tuesday": "LEPE BEAS IMELDA",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CASTRO RODRIGUEZ TOMAS",
+          "tuesday": "LEPE BEAS IMELDA",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "322",
+      "group": "I I",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "GONZALEZ ROSAS RODOLFO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "thursday": "VALDEZ ALDERETE DIANA LAURA",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "thursday": "VALDEZ ALDERETE DIANA LAURA",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "TUTORIAS 1I",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "BAROZA SANCHEZ LIZETH"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "TUTORIAS 1I",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "BAROZA SANCHEZ LIZETH"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "621",
+      "group": "I J",
+      "career": "CURRICULUM FUNDAMENTAL Y AMPLIADO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "",
+          "wednesday": "GONZALEZ ROSAS RODOLFO",
+          "thursday": "MORAN GOMEZ ANDREA LETICIA",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "GONZALEZ ROSAS RODOLFO",
+          "wednesday": "TUTORIAS 1J",
+          "thursday": "PASILLAS SAENZ ADRIANA",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "ZUÑIGA TORRES EMANUEL",
+          "tuesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "wednesday": "MORAN GOMEZ ANDREA LETICIA",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MORAN GOMEZ ANDREA LETICIA",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "friday": "TUTORIAS 1J"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "GONZALEZ ROSAS RODOLFO",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "SANCHEZ CISNEROS CLAUDIA GABRIE LA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "622",
+      "group": "3A TSM",
+      "career": "TECNICO EN SEMICONDUCTORES Y MICROELECTRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "GONZALEZ MILLAN JUAN MANUEL",
+          "tuesday": "GARCIA DELGADO JULIO",
+          "wednesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "thursday": "TUTORIAS 3A TSM",
+          "friday": "GARCIA DELGADO JULIO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "611",
+      "group": "3A TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "MUÑOZ PEREZ SANDRA LUZ",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MUÑOZ PEREZ SANDRA LUZ",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "wednesday": "PASILLAS SAENZ ADRIANA",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "wednesday": "PASILLAS SAENZ ADRIANA",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "BANDA COTA MONZERRATH",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "TUTORIAS 3A TMT"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "BANDA COTA MONZERRATH",
+          "wednesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "213",
+      "group": "3B TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "wednesday": "PEREZ REYES HERIBERTO",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "wednesday": "PEREZ REYES HERIBERTO",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "JIMENEZ PADILLA ISRAEL",
+          "tuesday": "TUTORIAS 3B TMT",
+          "wednesday": "BANDA COTA MONZERRATH",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "MUÑOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "PIÑA SALAZAR SONIA",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "JIMENEZ PADILLA ISRAEL",
+          "friday": "MUÑOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "PIÑA SALAZAR SONIA",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "JIMENEZ PADILLA ISRAEL",
+          "friday": "MUÑOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PASILLAS SAENZ ADRIANA",
+          "tuesday": "JIMENEZ PADILLA ISRAEL",
+          "wednesday": "MAYORGA ORTIZ SOFIA",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "311",
+      "group": "3C TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MUÑOZ PEREZ SANDRA LUZ",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "PASILLAS SAENZ ADRIANA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MUÑOZ PEREZ SANDRA LUZ",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "TUTORIAS 3C TMT",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "PASILLAS SAENZ ADRIANA",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "BANDA COTA MONZERRATH",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "SANCHEZ MELCHOR MARVA",
+          "tuesday": "PASILLAS SAENZ ADRIANA",
+          "wednesday": "BANDA COTA MONZERRATH",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "413",
+      "group": "3A TCN",
+      "career": "TÉCNICO EN CONTABILIDAD",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "wednesday": "PEREZ REYES HERIBERTO",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "TUTORIAS 3A TCN"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "PEREZ REYES HERIBERTO",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "MUÑOZ PEREZ SANDRA LUZ",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "ZUÑIGA TORRES EMANUEL",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "ZUÑIGA TORRES EMANUEL",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "412",
+      "group": "3B TCN",
+      "career": "TÉCNICO EN CONTABILIDAD",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "JIMENEZ PADILLA ISRAEL",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "JIMENEZ PADILLA ISRAEL"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "JIMENEZ PADILLA ISRAEL",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "JIMENEZ PADILLA ISRAEL"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "ESPINOZA LEDEZMA SILVIA",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "thursday": "VALDEZ ALDERETE DIANA LAURA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "MUÑOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+          "tuesday": "TUTORIAS 3B TCN",
+          "wednesday": "MUÑOZ CAZARES RITA",
+          "thursday": "MUÑOZ PEREZ SANDRA LUZ",
+          "friday": "MUÑOZ PEREZ SANDRA LUZ"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "522",
+      "group": "3A TLC",
+      "career": "TÉCNICO EN LABORATORISTA CLINICO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "JIMENEZ PADILLA ISRAEL",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "",
+          "thursday": "VALENCIA MORENO GENESIS",
+          "friday": "VALENCIA MORENO GENESIS"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "JIMENEZ PADILLA ISRAEL",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "",
+          "thursday": "VALENCIA MORENO GENESIS",
+          "friday": "VALENCIA MORENO GENESIS"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "VALENCIA MORENO GENESIS"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GONZALEZ MUÑOZ ALICIA",
+          "tuesday": "GONZALEZ MUÑOZ ALICIA",
+          "wednesday": "",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "VALENCIA MORENO GENESIS",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "",
+          "thursday": "JIMENEZ PADILLA ISRAEL",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "VALENCIA MORENO GENESIS",
+          "tuesday": "JIMENEZ PADILLA ISRAEL",
+          "wednesday": "",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "NORIS LIZARRAGA MARIA HILDA",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "VALENCIA MORENO GENESIS",
+          "thursday": "PEREZ REYES HERIBERTO",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "712",
+      "group": "3B TLC",
+      "career": "TÉCNICO EN LABORATORISTA CLINICO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "NORIS LIZARRAGA MARIA HILDA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "",
+          "thursday": "GONZALEZ MUÑOZ ALICIA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "NORIS LIZARRAGA MARIA HILDA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "",
+          "thursday": "GONZALEZ MUÑOZ ALICIA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "VALENCIA MORENO GENESIS",
+          "wednesday": "VALENCIA MORENO GENESIS",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "VALENCIA MORENO GENESIS"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "VALENCIA MORENO GENESIS",
+          "wednesday": "VALENCIA MORENO GENESIS",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "VALENCIA MORENO GENESIS"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "NORIS LIZARRAGA MARIA HILDA",
+          "thursday": "VALENCIA MORENO GENESIS",
+          "friday": "HERNANDEZ MORONES FERNANDA EDITH"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "VALENCIA MORENO GENESIS",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "GONZALEZ MUÑOZ ALICIA",
+          "thursday": "VALENCIA MORENO GENESIS",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "ZUÑIGA TORRES EMANUEL",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "ZUÑIGA TORRES EMANUEL"
+        }
+      ]
+    },
+    {
+      "classroom": "711",
+      "group": "3A TARH",
+      "career": "TÉCNICO EN ADMINISTRACIÓN DE RECURSOS HUMANOS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "KONG TOLEDO ARIADNA",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "PIÑA SALAZAR SONIA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CASTRO RODRIGUEZ TOMAS",
+          "tuesday": "KONG TOLEDO ARIADNA",
+          "wednesday": "JIMENEZ PADILLA ISRAEL",
+          "thursday": "KONG TOLEDO ARIADNA",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "KONG TOLEDO ARIADNA",
+          "tuesday": "KONG TOLEDO ARIADNA",
+          "wednesday": "KONG TOLEDO ARIADNA",
+          "thursday": "KONG TOLEDO ARIADNA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "KONG TOLEDO ARIADNA",
+          "tuesday": "JIMENEZ PADILLA ISRAEL",
+          "wednesday": "KONG TOLEDO ARIADNA",
+          "thursday": "KONG TOLEDO ARIADNA",
+          "friday": "PEREZ REYES HERIBERTO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "KONG TOLEDO ARIADNA",
+          "tuesday": "TUTORIAS 3A TARH",
+          "wednesday": "KONG TOLEDO ARIADNA",
+          "thursday": "KONG TOLEDO ARIADNA",
+          "friday": "JIMENEZ PADILLA ISRAEL"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "KONG TOLEDO ARIADNA",
+          "tuesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "KONG TOLEDO ARIADNA",
+          "friday": "JIMENEZ PADILLA ISRAEL"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "411",
+      "group": "3A TMA",
+      "career": "TÉCNICO EN MANTENIMIENTO INDUSTRIAL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "PIÑA SALAZAR SONIA",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "VALDEZ ALDERETE DIANA LAURA",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "PIÑA SALAZAR SONIA",
+          "wednesday": "TUTORIAS 3A TMA",
+          "thursday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PEREZ REYES HERIBERTO",
+          "tuesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "wednesday": "PEREZ REYES HERIBERTO",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "HUZAR ZAVALA FELIPE DE JESUS",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PIÑA SALAZAR SONIA",
+          "tuesday": "PIÑA SALAZAR SONIA",
+          "wednesday": "PIÑA SALAZAR SONIA",
+          "thursday": "PIÑA SALAZAR SONIA",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "523",
+      "group": "5A TSM",
+      "career": "TECNICO EN SEMICONDUCTORES Y MICROELECTRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "GARCIA GERARDO MICHELLE",
+          "tuesday": "GARCIA GERARDO MICHELLE",
+          "wednesday": "GARCIA GERARDO MICHELLE",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "GARCIA GERARDO MICHELLE",
+          "tuesday": "GARCIA GERARDO MICHELLE",
+          "wednesday": "GARCIA GERARDO MICHELLE",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "TUTORIAS 5A TSM"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "GARCIA GERARDO MICHELLE",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "ALVAREZ JESUS",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "GARCIA DELGADO JULIO",
+          "tuesday": "ALVAREZ JESUS",
+          "wednesday": "GARCIA DELGADO JULIO",
+          "thursday": "TUTORIAS 5A TSM",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "ALVAREZ JESUS",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "GONZALEZ ROSAS RODOLFO",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "521",
+      "group": "5A TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "MURILLO RIOS LUIS",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "BANDA COTA MONZERRATH",
+          "thursday": "TUTORIAS 5A TMT",
+          "friday": "BANDA COTA MONZERRATH"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "CASTRO RODRIGUEZ RICARDO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "TUTORIAS 5A TMT",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "323",
+      "group": "5B TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "PARADA LEYVA RUBEN ALFREDO",
+          "friday": "PARADA LEYVA RUBEN ALFREDO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "tuesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "BANDA COTA MONZERRATH",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "TUTORIAS 5B TMT",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "BANDA COTA MONZERRATH",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "TUTORIAS 5B TMT",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "313",
+      "group": "5C TMT",
+      "career": "TÉCNICO EN MECATRONICA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "LOPEZ SANCHEZ JOSELINO",
+          "tuesday": "LOPEZ SANCHEZ JOSELINO",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "LOPEZ SANCHEZ JOSELINO",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "LOPEZ SANCHEZ JOSELINO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "thursday": "LOPEZ SANCHEZ JOSELINO",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "LOPEZ SANCHEZ JOSELINO",
+          "tuesday": "PARADA LEYVA RUBEN ALFREDO",
+          "wednesday": "TUTORIAS 5C TMT",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "MURILLO RIOS LUIS"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "MURILLO RIOS LUIS",
+          "thursday": "MARTINEZ LUNA MAYRA FABIOLA",
+          "friday": "TUTORIAS 5C TMT"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "PARADA LEYVA RUBEN ALFREDO",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "MARTINEZ LUNA MAYRA FABIOLA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CASTRO RODRIGUEZ RICARDO",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "thursday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "MURILLO RIOS LUIS",
+          "tuesday": "MURILLO RIOS LUIS",
+          "wednesday": "PARADA LEYVA RUBEN ALFREDO",
+          "thursday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "212",
+      "group": "5A TCN",
+      "career": "TÉCNICO EN CONTABILIDAD",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "CANGA PIÑA REYNALDO",
+          "friday": "VALDEZ ALDERETE DIANA LAURA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "TUTORIAS 5A TCN",
+          "tuesday": "TUTORIAS 5A TCN",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "CANGA PIÑA REYNALDO",
+          "friday": "MIQUIRRAY GALAVIZ MARTHA JULIA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "wednesday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "friday": "LOPEZ LOPEZ SAIDA ANAVEY"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZA BETH"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "CASTRO RODRIGUEZ RICARDO",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZA BETH"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "wednesday": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+          "thursday": "CASTRO RODRIGUEZ RICARDO",
+          "friday": "CASTILLO ANGUIANO MARTHA ELIZA BETH"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "VALDEZ ALDERETE DIANA LAURA",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "221",
+      "group": "5B TCN",
+      "career": "TÉCNICO EN CONTABILIDAD",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "TUTORIAS 5B TCN",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "TUTORIAS 5B TCN",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "ESPINOZA LEDEZMA SILVIA",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "VALENZUELA RAZO JAVIER",
+          "tuesday": "CASTRO RODRIGUEZ RICARDO",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "NUÑEZ OSUNA ANA GABRIELA",
+          "thursday": "CANGA PIÑA REYNALDO",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "ESPINOZA LEDEZMA SILVIA",
+          "wednesday": "CASTRO RODRIGUEZ RICARDO",
+          "thursday": "ESPINOZA LEDEZMA SILVIA",
+          "friday": "ESPINOZA LEDEZMA SILVIA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "721",
+      "group": "5A TLC",
+      "career": "TÉCNICO EN LABORATORISTA CLINICO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "CARDENAS MIRANDA RAFAEL",
+          "tuesday": "",
+          "wednesday": "TUTORIAS 5A TLC",
+          "thursday": "CARDENAS MIRANDA RAFAEL",
+          "friday": "CASTILLO ESTRADA MARTHA LORENA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CARDENAS MIRANDA RAFAEL",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "CARDENAS MIRANDA RAFAEL",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "NORIS LIZARRAGA MARIA HILDA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "VALDEZ ALDERETE DIANA LAURA",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "NORIS LIZARRAGA MARIA HILDA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "thursday": "VALDEZ ALDERETE DIANA LAURA",
+          "friday": "NORIS LIZARRAGA MARIA HILDA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "TUTORIAS 5A TLC",
+          "tuesday": "CARDENAS MIRANDA RAFAEL",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "NORIS LIZARRAGA MARIA HILDA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "CARDENAS MIRANDA RAFAEL",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "BURGUEÑO CAMACHO FRANCISCA"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "VALDEZ ALDERETE DIANA LAURA",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "722",
+      "group": "5B TLC",
+      "career": "TÉCNICO EN LABORATORISTA CLINICO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "NORIS LIZARRAGA MARIA HILDA",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CASTILLO ESTRADA MARTHA LORENA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "NORIS LIZARRAGA MARIA HILDA",
+          "thursday": "NORIS LIZARRAGA MARIA HILDA",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "CARDENAS MIRANDA RAFAEL",
+          "friday": "TUTORIAS 5B TLC"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "NORIS LIZARRAGA MARIA HILDA",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "CARDENAS MIRANDA RAFAEL",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "BANDA COTA MONZERRATH",
+          "tuesday": "TUTORIAS 5B TLC",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "CARDENAS MIRANDA RAFAEL",
+          "thursday": "BURGUEÑO CAMACHO FRANCISCA",
+          "friday": "CARDENAS MIRANDA RAFAEL"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "CARDENAS MIRANDA RAFAEL",
+          "thursday": "CASTILLO ESTRADA MARTHA LORENA",
+          "friday": "CARDENAS MIRANDA RAFAEL"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "623",
+      "group": "5A TARH",
+      "career": "TÉCNICO EN ADMINISTRACIÓN DE RECURSOS HUMANOS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "VALENZUELA RAZO JAVIER",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "VALENZUELA RAZO JAVIER",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "VALENZUELA RAZO JAVIER",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "VALENZUELA RAZO JAVIER",
+          "thursday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "VALENZUELA RAZO JAVIER",
+          "friday": "VALENZUELA RAZO JAVIER"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "VALENZUELA RAZO JAVIER",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "tuesday": "VALENZUELA RAZO JAVIER",
+          "wednesday": "VALENZUELA RAZO JAVIER",
+          "thursday": "TUTORIAS 5A TARH",
+          "friday": "SUAREZ SANCHEZ SANDRA PATRICIA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "VALENZUELA RAZO JAVIER",
+          "tuesday": "VALENZUELA RAZO JAVIER",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "VALENZUELA RAZO JAVIER",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "VALENZUELA RAZO JAVIER",
+          "tuesday": "VALENZUELA RAZO JAVIER",
+          "wednesday": "TUTORIAS 5A TARH",
+          "thursday": "CANGA PIÑA REYNALDO",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "classroom": "222",
+      "group": "5A TMA",
+      "career": "TÉCNICO EN MANTENIMIENTO INDUSTRIAL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "CANGA PIÑA REYNALDO",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "CANGA PIÑA REYNALDO"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "CANGA PIÑA REYNALDO",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "GONZALEZ MILLAN JUAN MANUEL",
+          "tuesday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "GONZALEZ MILLAN JUAN MANUEL",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "GONZALEZ MILLAN JUAN MANUEL",
+          "friday": "GONZALEZ MILLAN JUAN MANUEL"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "SUAREZ SANCHEZ SANDRA PATRICIA",
+          "tuesday": "BARAJAS MENDOZA JOSE FRANCISCO",
+          "wednesday": "GONZALEZ MILLAN JUAN MANUEL",
+          "thursday": "TUTORIAS 5A TMA",
+          "friday": "TUTORIAS 5A TMA"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "DE LA TORRE DESILAGUA JUAN CARL OS",
+          "wednesday": "BURGUEÑO CAMACHO FRANCISCA",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "BURGUEÑO CAMACHO FRANCISCA",
+          "tuesday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "wednesday": "CANGA PIÑA REYNALDO",
+          "thursday": "LOPEZ LOPEZ SAIDA ANAVEY",
+          "friday": "BARAJAS MENDOZA JOSE FRANCISCO"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    }
+  ]
+}

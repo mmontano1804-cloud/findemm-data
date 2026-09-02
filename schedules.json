@@ -1,0 +1,5386 @@
+{
+  "teachers": [
+    {
+      "name": "ALVAREZ JESUS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "523",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "523",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "523",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "BANDA COTA MONZERRATH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "213",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "611",
+          "friday": "311"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "213",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "611",
+          "friday": "311"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "622",
+          "tuesday": "",
+          "wednesday": "213",
+          "thursday": "323",
+          "friday": "521"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "622",
+          "tuesday": "",
+          "wednesday": "521",
+          "thursday": "323",
+          "friday": "521"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "722",
+          "tuesday": "611",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "611",
+          "wednesday": "311",
+          "thursday": "622",
+          "friday": "213"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "323",
+          "wednesday": "311",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "BARAJAS MENDOZA JOSE FRANCISCO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "323",
+          "tuesday": "623",
+          "wednesday": "223",
+          "thursday": "",
+          "friday": "521"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "323",
+          "tuesday": "623",
+          "wednesday": "223",
+          "thursday": "223",
+          "friday": "521"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "223",
+          "wednesday": "323",
+          "thursday": "523",
+          "friday": "523"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "623",
+          "tuesday": "222",
+          "wednesday": "323",
+          "thursday": "523",
+          "friday": "523"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "623",
+          "tuesday": "222",
+          "wednesday": "313",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "521",
+          "tuesday": "",
+          "wednesday": "313",
+          "thursday": "313",
+          "friday": "222"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "521",
+          "tuesday": "522",
+          "wednesday": "",
+          "thursday": "313",
+          "friday": "222"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "BAROZA SANCHEZ LIZETH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "322"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "322"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "BURGUEÑO CAMACHO FRANCISCA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "621",
+          "tuesday": "213",
+          "wednesday": "311",
+          "thursday": "711",
+          "friday": "611"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "621",
+          "tuesday": "213",
+          "wednesday": "311",
+          "thursday": "711",
+          "friday": "611"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "623",
+          "tuesday": "",
+          "wednesday": "623",
+          "thursday": "611",
+          "friday": "711"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "213",
+          "tuesday": "621",
+          "wednesday": "623",
+          "thursday": "611",
+          "friday": "311"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "213",
+          "tuesday": "",
+          "wednesday": "722",
+          "thursday": "722",
+          "friday": "311"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "222",
+          "tuesday": "",
+          "wednesday": "222",
+          "thursday": "722",
+          "friday": "721"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "222",
+          "tuesday": "711",
+          "wednesday": "",
+          "thursday": "721",
+          "friday": "721"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CANGA PIÑA REYNALDO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "222",
+          "tuesday": "222",
+          "wednesday": "212",
+          "thursday": "212",
+          "friday": "222"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "222",
+          "tuesday": "721",
+          "wednesday": "212",
+          "thursday": "212",
+          "friday": "721"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "722",
+          "tuesday": "623",
+          "wednesday": "221",
+          "thursday": "",
+          "friday": "721"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "723",
+          "tuesday": "623",
+          "wednesday": "221",
+          "thursday": "",
+          "friday": "722"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "212",
+          "tuesday": "",
+          "wednesday": "721",
+          "thursday": "221",
+          "friday": "722"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "221",
+          "tuesday": "722",
+          "wednesday": "721",
+          "thursday": "",
+          "friday": "623"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "221",
+          "tuesday": "722",
+          "wednesday": "222",
+          "thursday": "623",
+          "friday": "623"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CARDENAS MIRANDA RAFAEL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "721",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "721",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "721",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "721",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "722",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "722",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "721",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "721",
+          "wednesday": "722",
+          "thursday": "",
+          "friday": "722"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "722",
+          "thursday": "",
+          "friday": "722"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CASTILLO ANGUIANO MARTHA ELIZA BETH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "324"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "212",
+          "tuesday": "",
+          "wednesday": "212",
+          "thursday": "212",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "212",
+          "tuesday": "212",
+          "wednesday": "212",
+          "thursday": "212",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "212",
+          "wednesday": "",
+          "thursday": "212",
+          "friday": "212"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "212"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "212"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CASTILLO ANGUIANO MARTHA ELIZAB ETH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "413",
+          "tuesday": "413",
+          "wednesday": "413",
+          "thursday": "413",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "413",
+          "tuesday": "413",
+          "wednesday": "413",
+          "thursday": "413",
+          "friday": "413"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "413",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "413"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "412",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "412",
+          "tuesday": "",
+          "wednesday": "412",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "412",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CASTILLO ESTRADA MARTHA LORENA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "722",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "721"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "722",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "324",
+          "friday": "324"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "324",
+          "friday": "324"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "321",
+          "tuesday": "321",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "321",
+          "tuesday": "321",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "721",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "721",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "722",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CASTRO RODRIGUEZ RICARDO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "223",
+          "tuesday": "212",
+          "wednesday": "323",
+          "thursday": "314",
+          "friday": "223"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "321",
+          "wednesday": "323",
+          "thursday": "321",
+          "friday": "211"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "413",
+          "tuesday": "221",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": "211"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "314",
+          "tuesday": "313",
+          "wednesday": "324",
+          "thursday": "723",
+          "friday": "723"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "313",
+          "wednesday": "324",
+          "thursday": "",
+          "friday": "521"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "313",
+          "tuesday": "521",
+          "wednesday": "221",
+          "thursday": "212",
+          "friday": "523"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "323",
+          "tuesday": "521",
+          "wednesday": "221",
+          "thursday": "212",
+          "friday": "523"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "CASTRO RODRIGUEZ TOMAS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "324",
+          "thursday": "723",
+          "friday": "314"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "711",
+          "tuesday": "524",
+          "wednesday": "324",
+          "thursday": "723",
+          "friday": "314"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "524",
+          "tuesday": "",
+          "wednesday": "723",
+          "thursday": "314",
+          "friday": "324"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "524",
+          "tuesday": "",
+          "wednesday": "723",
+          "thursday": "314",
+          "friday": "324"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "DE LA TORRE DESILAGUA JUAN CARL OS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "222",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "ESPINOZA LEDEZMA SILVIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "221",
+          "wednesday": "221",
+          "thursday": "",
+          "friday": "221"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "221",
+          "wednesday": "221",
+          "thursday": "",
+          "friday": "221"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "412",
+          "tuesday": "412",
+          "wednesday": "412",
+          "thursday": "412",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "412",
+          "tuesday": "412",
+          "wednesday": "412",
+          "thursday": "412",
+          "friday": "412"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "412",
+          "tuesday": "",
+          "wednesday": "413",
+          "thursday": "323",
+          "friday": "412"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "413",
+          "tuesday": "221",
+          "wednesday": "413",
+          "thursday": "221",
+          "friday": "221"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "413",
+          "tuesday": "221",
+          "wednesday": "",
+          "thursday": "221",
+          "friday": "221"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GALLO MAYORGA DENISSE FERNAND A",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "321"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GARCIA DELGADO JULIO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "622",
+          "tuesday": "622",
+          "wednesday": "622",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "622",
+          "tuesday": "622",
+          "wednesday": "622",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "523",
+          "tuesday": "622",
+          "wednesday": "622",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "523",
+          "tuesday": "622",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "523",
+          "tuesday": "622",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GARCIA GERARDO MICHELLE",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "523",
+          "tuesday": "523",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "523",
+          "tuesday": "523",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "523",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GONZALEZ MILLAN JUAN MANUEL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "222",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "222",
+          "friday": "222"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "222",
+          "tuesday": "",
+          "wednesday": "222",
+          "thursday": "222",
+          "friday": "222"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "222",
+          "tuesday": "",
+          "wednesday": "222",
+          "thursday": "222",
+          "friday": "222"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "622",
+          "tuesday": "",
+          "wednesday": "222",
+          "thursday": "411",
+          "friday": "411"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "411",
+          "friday": "411"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GONZALEZ MUÑOZ ALICIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "324",
+          "tuesday": "324",
+          "wednesday": "312",
+          "thursday": "712",
+          "friday": "312"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "324",
+          "tuesday": "324",
+          "wednesday": "312",
+          "thursday": "712",
+          "friday": "223"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "522",
+          "tuesday": "522",
+          "wednesday": "314",
+          "thursday": "321",
+          "friday": "223"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "522",
+          "tuesday": "522",
+          "wednesday": "314",
+          "thursday": "223",
+          "friday": "211"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "314",
+          "tuesday": "322",
+          "wednesday": "211",
+          "thursday": "223",
+          "friday": "211"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "321",
+          "tuesday": "321",
+          "wednesday": "712",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "712",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "GONZALEZ ROSAS RODOLFO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "322",
+          "tuesday": "321",
+          "wednesday": "621",
+          "thursday": "",
+          "friday": "322"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "322",
+          "tuesday": "211",
+          "wednesday": "524",
+          "thursday": "312",
+          "friday": "321"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "312",
+          "tuesday": "621",
+          "wednesday": "524",
+          "thursday": "312",
+          "friday": "321"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "211",
+          "tuesday": "322",
+          "wednesday": "211",
+          "thursday": "524",
+          "friday": "223"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "211",
+          "tuesday": "223",
+          "wednesday": "321",
+          "thursday": "524",
+          "friday": "223"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "621",
+          "tuesday": "223",
+          "wednesday": "312",
+          "thursday": "621",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "523",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "HERNANDEZ MORONES FERNANDA E DITH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "321",
+          "tuesday": "",
+          "wednesday": "211",
+          "thursday": "211",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "223",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "223",
+          "tuesday": "",
+          "wednesday": "321",
+          "thursday": "223",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "324",
+          "tuesday": "",
+          "wednesday": "321",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "324",
+          "tuesday": "211",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "324",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "HERNANDEZ MORONES FERNANDA ED ITH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "723",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "723",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "723",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "HERNANDEZ MORONES FERNANDA EDITH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "712"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "HUZAR ZAVALA FELIPE DE JESUS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "611",
+          "wednesday": "",
+          "thursday": "411",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "611",
+          "wednesday": "622",
+          "thursday": "411",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "311",
+          "tuesday": "411",
+          "wednesday": "622",
+          "thursday": "611",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "311",
+          "tuesday": "411",
+          "wednesday": "611",
+          "thursday": "311",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "311",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "JIMENEZ PADILLA ISRAEL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "522",
+          "tuesday": "412",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "412"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "522",
+          "tuesday": "412",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "412"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "213",
+          "tuesday": "",
+          "wednesday": "711",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "213",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "711",
+          "wednesday": "",
+          "thursday": "213, 522",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "522",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "711"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "213",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "711"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "KONG TOLEDO ARIADNA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "711",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "711",
+          "wednesday": "223",
+          "thursday": "711",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "711",
+          "tuesday": "711",
+          "wednesday": "711",
+          "thursday": "711",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "711",
+          "tuesday": "",
+          "wednesday": "711",
+          "thursday": "711",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "711",
+          "tuesday": "",
+          "wednesday": "711",
+          "thursday": "711",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "711",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "711",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "LEPE BEAS IMELDA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "312",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "312",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "524",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "524",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "LOPEZ LOPEZ SAIDA ANAVEY",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "211",
+          "tuesday": "722",
+          "wednesday": "",
+          "thursday": "221",
+          "friday": "211"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "321",
+          "tuesday": "722",
+          "wednesday": "211",
+          "thursday": "221",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "321",
+          "tuesday": "721",
+          "wednesday": "211",
+          "thursday": "721",
+          "friday": "212"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "221",
+          "tuesday": "721",
+          "wednesday": "721",
+          "thursday": "321",
+          "friday": "212"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "221",
+          "tuesday": "",
+          "wednesday": "212",
+          "thursday": "321",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "722",
+          "tuesday": "313",
+          "wednesday": "212",
+          "thursday": "222",
+          "friday": "313"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "722",
+          "tuesday": "222",
+          "wednesday": "521",
+          "thursday": "222",
+          "friday": "313"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "LOPEZ SANCHEZ JOSELINO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "313",
+          "tuesday": "313",
+          "wednesday": "",
+          "thursday": "313",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "313",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "313",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "313",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MARTINEZ LUNA MAYRA FABIOLA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "313",
+          "thursday": "523",
+          "friday": "523"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "323",
+          "wednesday": "313",
+          "thursday": "523",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "323",
+          "tuesday": "323",
+          "wednesday": "",
+          "thursday": "313",
+          "friday": "323"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "521",
+          "tuesday": "521",
+          "wednesday": "",
+          "thursday": "313",
+          "friday": "323"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "521",
+          "tuesday": "521",
+          "wednesday": "524",
+          "thursday": "",
+          "friday": "313"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "523",
+          "thursday": "",
+          "friday": "521"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MAYORGA ORTIZ SOFIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "213",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MIQUIRRAY GALAVIZ MARTHA JULIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "412",
+          "tuesday": "712",
+          "wednesday": "412",
+          "thursday": "322",
+          "friday": "411"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "412",
+          "tuesday": "712",
+          "wednesday": "412",
+          "thursday": "411",
+          "friday": "212"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "411",
+          "wednesday": "",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "413",
+          "tuesday": "411",
+          "wednesday": "322",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "413",
+          "tuesday": "522",
+          "wednesday": "322",
+          "thursday": "",
+          "friday": "413, 522"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "712",
+          "tuesday": "212",
+          "wednesday": "622",
+          "thursday": "",
+          "friday": "413"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "712",
+          "tuesday": "212",
+          "wednesday": "212",
+          "thursday": "",
+          "friday": "622"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MORAN GOMEZ ANDREA LETICIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "621",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "621",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "621",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MURILLO RIOS LUIS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "521",
+          "tuesday": "521",
+          "wednesday": "521",
+          "thursday": "521",
+          "friday": "313"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "521",
+          "tuesday": "521",
+          "wednesday": "521",
+          "thursday": "521",
+          "friday": "313"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "521",
+          "tuesday": "521",
+          "wednesday": "521",
+          "thursday": "521",
+          "friday": "313"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "323",
+          "tuesday": "323",
+          "wednesday": "313",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "323",
+          "tuesday": "323",
+          "wednesday": "323",
+          "thursday": "",
+          "friday": "323"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "323",
+          "tuesday": "323",
+          "wednesday": "323",
+          "thursday": "",
+          "friday": "323"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "313",
+          "tuesday": "313",
+          "wednesday": "323",
+          "thursday": "",
+          "friday": "323"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MUÑOZ CAZARES RITA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "223",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "211",
+          "friday": "723"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "321",
+          "wednesday": "",
+          "thursday": "211",
+          "friday": "723"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "223",
+          "wednesday": "",
+          "thursday": "324",
+          "friday": "321"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "324",
+          "wednesday": "223",
+          "thursday": "723",
+          "friday": "321"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "211",
+          "tuesday": "324",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "412",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "MUÑOZ PEREZ SANDRA LUZ",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "611",
+          "tuesday": "611",
+          "wednesday": "611",
+          "thursday": "311",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "611",
+          "tuesday": "611",
+          "wednesday": "611",
+          "thursday": "311",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "311",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "413",
+          "friday": "213"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "311",
+          "tuesday": "311",
+          "wednesday": "213",
+          "thursday": "413",
+          "friday": "213"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "311",
+          "wednesday": "213",
+          "thursday": "",
+          "friday": "213"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "413",
+          "wednesday": "213",
+          "thursday": "412",
+          "friday": "412"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "413",
+          "wednesday": "611",
+          "thursday": "412",
+          "friday": "412"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "NORIS LIZARRAGA MARIA HILDA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "712",
+          "tuesday": "522",
+          "wednesday": "722",
+          "thursday": "722",
+          "friday": "314"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "712",
+          "tuesday": "522",
+          "wednesday": "722",
+          "thursday": "722",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "721",
+          "tuesday": "722",
+          "wednesday": "",
+          "thursday": "522, 712",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "721",
+          "tuesday": "722",
+          "wednesday": "",
+          "thursday": "522, 712",
+          "friday": "721"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "712",
+          "thursday": "721",
+          "friday": "721"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "",
+          "thursday": "721",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "522",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "NUÑEZ OSUNA ANA GABRIELA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "314",
+          "wednesday": "314",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "314",
+          "wednesday": "312",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "312",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "221",
+          "thursday": "312",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "PARADA LEYVA RUBEN ALFREDO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "323",
+          "wednesday": "",
+          "thursday": "323",
+          "friday": "323"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "313",
+          "wednesday": "",
+          "thursday": "323",
+          "friday": "323"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "313",
+          "wednesday": "411",
+          "thursday": "",
+          "friday": "411"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "313",
+          "tuesday": "",
+          "wednesday": "411",
+          "thursday": "",
+          "friday": "411"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "313",
+          "tuesday": "",
+          "wednesday": "521",
+          "thursday": "521",
+          "friday": "523"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "523",
+          "tuesday": "523",
+          "wednesday": "521",
+          "thursday": "521",
+          "friday": "521"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "523",
+          "tuesday": "523",
+          "wednesday": "313",
+          "thursday": "",
+          "friday": "411"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "PASILLAS SAENZ ADRIANA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "723",
+          "tuesday": "723",
+          "wednesday": "524",
+          "thursday": "324",
+          "friday": "213"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "723",
+          "tuesday": "223",
+          "wednesday": "",
+          "thursday": "621",
+          "friday": "213"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "322",
+          "tuesday": "324",
+          "wednesday": "611",
+          "thursday": "621",
+          "friday": "311"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "223",
+          "tuesday": "324",
+          "wednesday": "611",
+          "thursday": "322",
+          "friday": "524"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "223",
+          "tuesday": "621",
+          "wednesday": "311",
+          "thursday": "322",
+          "friday": "524"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "213",
+          "tuesday": "311",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "611"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "213",
+          "tuesday": "311",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "611"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "PEREZ REYES HERIBERTO",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "213",
+          "thursday": "412",
+          "friday": "712"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "711",
+          "tuesday": "311",
+          "wednesday": "213",
+          "thursday": "412",
+          "friday": "712"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "712",
+          "tuesday": "311",
+          "wednesday": "413",
+          "thursday": "311",
+          "friday": "412"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "411",
+          "tuesday": "211",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "522, 711"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "411",
+          "tuesday": "413",
+          "wednesday": "411",
+          "thursday": "413",
+          "friday": "711"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "611",
+          "tuesday": "622",
+          "wednesday": "",
+          "thursday": "522",
+          "friday": "622"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "611",
+          "tuesday": "622",
+          "wednesday": "",
+          "thursday": "611, 522",
+          "friday": "213"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "PIÑA SALAZAR SONIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "411",
+          "tuesday": "411",
+          "wednesday": "711",
+          "thursday": "213",
+          "friday": "711"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "411",
+          "tuesday": "411",
+          "wednesday": "711",
+          "thursday": "213",
+          "friday": "711"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "411",
+          "tuesday": "",
+          "wednesday": "311",
+          "thursday": "213",
+          "friday": "611"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "611",
+          "tuesday": "213",
+          "wednesday": "311",
+          "thursday": "",
+          "friday": "611"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "611",
+          "tuesday": "213",
+          "wednesday": "",
+          "thursday": "311",
+          "friday": "312"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "411",
+          "tuesday": "",
+          "wednesday": "411",
+          "thursday": "611",
+          "friday": "311"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "411",
+          "tuesday": "411",
+          "wednesday": "411",
+          "thursday": "411",
+          "friday": "311"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "SANCHEZ CISNEROS CLAUDIA GABRIE LA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "312",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "322",
+          "wednesday": "322",
+          "thursday": "",
+          "friday": "312"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "322",
+          "wednesday": "322",
+          "thursday": "",
+          "friday": "312"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "312",
+          "tuesday": "312",
+          "wednesday": "",
+          "thursday": "621",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "312",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "621",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "621",
+          "thursday": "312",
+          "friday": "621"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "SANCHEZ CISNEROS CLAUDIA GABRIEL A",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "524",
+          "wednesday": "723",
+          "thursday": "524",
+          "friday": "723"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "314",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "524",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "314",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "314",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "524",
+          "thursday": "",
+          "friday": "314"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "723",
+          "wednesday": "314",
+          "thursday": "",
+          "friday": "314"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "314",
+          "tuesday": "723",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "721",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "SANCHEZ MELCHOR MARVA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "311",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "SUAREZ SANCHEZ SANDRA PATRICIA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "311",
+          "tuesday": "311",
+          "wednesday": "222",
+          "thursday": "623",
+          "friday": "722"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "311",
+          "tuesday": "222",
+          "wednesday": "222",
+          "thursday": "623",
+          "friday": "722"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "611",
+          "tuesday": "222",
+          "wednesday": "722",
+          "thursday": "221",
+          "friday": "221"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "722",
+          "tuesday": "221",
+          "wednesday": "722",
+          "thursday": "221",
+          "friday": "623"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "222",
+          "tuesday": "221",
+          "wednesday": "611",
+          "thursday": "313",
+          "friday": "623"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "622",
+          "tuesday": "213",
+          "wednesday": "623",
+          "thursday": "213",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "622",
+          "tuesday": "611",
+          "wednesday": "622",
+          "thursday": "213",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1A",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "223",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "223",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1B",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "324",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "324",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1C",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "321",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "321",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1D",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "211",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "211",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1E",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "723",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "723",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1F",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "314",
+          "wednesday": "314",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1G",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "312",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "312",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1H",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "524"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "524"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1I",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "322",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "322",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 1J",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "621",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "621"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3A TARH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "711",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3A TCN",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "413"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3A TMA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "411",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3A TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "611"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3A TSM",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "622",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3B TCN",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "412",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3B TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "213",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 3C TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "311",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TARH",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "623",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "623",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TCN",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "212",
+          "tuesday": "212",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TLC",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "721",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "721",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TMA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "222",
+          "friday": "222"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "521",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "521",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5A TSM",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "523"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "523",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5B TCN",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "221",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "221",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5B TLC",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "722"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "722",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5B TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "323",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "323",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "TUTORIAS 5C TMT",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "313",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "313"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "VALDEZ ALDERETE DIANA LAURA",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "711",
+          "tuesday": "711",
+          "wednesday": "411",
+          "thursday": "411",
+          "friday": "212"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "524",
+          "tuesday": "524",
+          "wednesday": "721",
+          "thursday": "322",
+          "friday": "411"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "524",
+          "tuesday": "212",
+          "wednesday": "721",
+          "thursday": "322",
+          "friday": "621"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "712",
+          "tuesday": "413",
+          "wednesday": "413",
+          "thursday": "721",
+          "friday": "621"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "712",
+          "tuesday": "412",
+          "wednesday": "621",
+          "thursday": "412",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "212",
+          "tuesday": "412",
+          "wednesday": "322",
+          "thursday": "",
+          "friday": "522, 712"
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "212",
+          "tuesday": "721",
+          "wednesday": "711",
+          "thursday": "",
+          "friday": "413, 522"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "212",
+          "tuesday": "721",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "VALENCIA MORENO GENESIS",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "522",
+          "friday": "522"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "522",
+          "friday": "522"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "712",
+          "thursday": "",
+          "friday": "522, 712"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "712",
+          "thursday": "",
+          "friday": "712"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "522",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "712",
+          "friday": ""
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "522",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "712",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "522",
+          "thursday": "712",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "VALENZUELA RAZO JAVIER",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "623",
+          "tuesday": "",
+          "wednesday": "623",
+          "thursday": "",
+          "friday": "623"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "623",
+          "tuesday": "",
+          "wednesday": "623",
+          "thursday": "",
+          "friday": "623"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "221",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "623",
+          "friday": "623"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "623",
+          "friday": "221"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "",
+          "tuesday": "623",
+          "wednesday": "623",
+          "thursday": "",
+          "friday": "221"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "623",
+          "tuesday": "623",
+          "wednesday": "",
+          "thursday": "623",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "623",
+          "tuesday": "623",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": ""
+        }
+      ]
+    },
+    {
+      "name": "ZUÑIGA TORRES EMANUEL",
+      "schedule": [
+        {
+          "time": "07:00-08:00",
+          "monday": "314",
+          "tuesday": "322",
+          "wednesday": "322",
+          "thursday": "312",
+          "friday": "524"
+        },
+        {
+          "time": "08:00-09:00",
+          "monday": "211",
+          "tuesday": "723",
+          "wednesday": "621",
+          "thursday": "314",
+          "friday": "322"
+        },
+        {
+          "time": "09:00-10:00",
+          "monday": "621",
+          "tuesday": "211",
+          "wednesday": "723",
+          "thursday": "524",
+          "friday": "322"
+        },
+        {
+          "time": "10:00-11:00",
+          "monday": "621",
+          "tuesday": "314",
+          "wednesday": "312",
+          "thursday": "211",
+          "friday": "312"
+        },
+        {
+          "time": "11:00-12:00",
+          "monday": "723",
+          "tuesday": "314",
+          "wednesday": "312",
+          "thursday": "211",
+          "friday": "723"
+        },
+        {
+          "time": "12:00-13:00",
+          "monday": "524",
+          "tuesday": "621",
+          "wednesday": "524",
+          "thursday": "413",
+          "friday": ""
+        },
+        {
+          "time": "13:00-14:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "413",
+          "thursday": "413",
+          "friday": "712"
+        },
+        {
+          "time": "14:00-15:00",
+          "monday": "",
+          "tuesday": "712",
+          "wednesday": "413",
+          "thursday": "",
+          "friday": "712"
+        }
+      ]
+    }
+  ]
+}
